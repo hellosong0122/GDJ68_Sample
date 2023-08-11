@@ -5,6 +5,6 @@
 	
 <configuration>
 	<typeAliases>
-		
+		<typeAlias type="com.iu.winter.board.notice.NoticeDTO" alias="NoticeDTO"/>
 	</typeAliases>
 </configuration>
